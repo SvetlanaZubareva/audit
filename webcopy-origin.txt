@@ -1,0 +1,400 @@
+Uri: https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor:25bcce5f9ae04b250d55dbec102616df1e62d8de9f06cd9a4e8959f1dfbed868&width=320&height=240&lang=ru_RU&scroll=true
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\services\constructor\1.0\js\index-1.htm
+Content Type: application/javascript
+
+Uri: https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor:f13e29e04984931cd0ac4fdebdb701286117c507709d21b0c6b0761b8d130705&width=700&height=360&lang=ru_RU&scroll=true
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\services\constructor\1.0\js\index.htm
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&subset=latin,cyrillic
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://mc.yandex.ru/watch/95394060
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\watch\95394060
+Content Type: image/gif
+
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/css/highlight.min.css
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\css\highlight.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-animation-2.0.min.css
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\css\tilda-animation-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-cards-1.0.min.css
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\css\tilda-cards-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-feed-1.0.min.css
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\css\tilda-feed-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-forms-1.0.min.css
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\css\tilda-forms-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-grid-3.0.min.css
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-menusub-1.0.min.css
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\css\tilda-menusub-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-popup-1.1.min.css
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\css\tilda-popup-1.1.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-slds-1.4.min.css
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\css\tilda-slds-1.4.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-zero-gallery-1.0.min.css
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\css\tilda-zero-gallery-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-zoom-2.0.min.css
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\css\tilda-zoom-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/js/hammer.min.js
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\js\hammer.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/highlight.min.js
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\js\highlight.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/jquery-1.10.2.min.js
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-2.0.min.js
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\js\tilda-animation-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-sbs-1.0.min.js
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\js\tilda-animation-sbs-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-cards-1.0.min.js
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\js\tilda-cards-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-events-1.0.min.js
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-feed-1.0.min.js
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\js\tilda-feed-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-forms-1.0.min.js
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\js\tilda-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-lazyload-1.0.min.js
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\js\tilda-lazyload-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-map-1.0.min.js
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\js\tilda-map-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-menu-1.0.min.js
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\js\tilda-menu-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-menusub-1.0.min.js
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\js\tilda-menusub-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-polyfill-1.0.min.js
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\js\tilda-polyfill-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-popup-1.0.min.js
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\js\tilda-popup-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-scripts-3.0.min.js
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-skiplink-1.0.min.js
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\js\tilda-skiplink-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-slds-1.4.min.js
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\js\tilda-slds-1.4.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-1.1.min.js
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\js\tilda-zero-1.1.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-fixed-1.0.min.js
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\js\tilda-zero-fixed-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-forms-1.0.min.js
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\js\tilda-zero-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-gallery-1.0.min.js
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\js\tilda-zero-gallery-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-scale-1.0.min.js
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\js\tilda-zero-scale-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zoom-2.0.min.js
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\js\tilda-zoom-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/tild3039-3435-4634-b038-396634306134/-/resize/20x/Rectangle_1659_1.jpg
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tild3039-3435-4634-b038-396634306134\-\resize\20x\Rectangle_1659_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3064-3262-4438-b230-313632303134/-/resize/20x/Rectangle_1640_1.jpg
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tild3064-3262-4438-b230-313632303134\-\resize\20x\Rectangle_1640_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3333-3363-4535-b661-393162366566/-/resizeb/20x/Rectangle_1617_1.jpg
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tild3333-3363-4535-b661-393162366566\-\resizeb\20x\Rectangle_1617_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3366-3864-4263-b038-336466653637/-/empty/4_1_1.jpg
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tild3366-3864-4263-b038-336466653637\-\empty\4_1_1.jpg
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3533-6233-4765-b137-646165626332/-/resize/20x/Rectangle_1657_1.jpg
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tild3533-6233-4765-b137-646165626332\-\resize\20x\Rectangle_1657_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3534-6132-4762-b135-306666366235/-/empty/20230904_____1.jpg
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tild3534-6132-4762-b135-306666366235\-\empty\20230904_____1.jpg
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3535-3962-4561-b964-303735636336/-/empty/_1.jpg
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tild3535-3962-4561-b964-303735636336\-\empty\_1.jpg
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3635-6365-4333-b437-373661336564/-/resize/20x/Rectangle_1660_1.jpg
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tild3635-6365-4333-b437-373661336564\-\resize\20x\Rectangle_1660_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3764-3739-4138-b633-336661363766/-/resize/20x/Rectangle_1658_1.jpg
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tild3764-3739-4138-b633-336661363766\-\resize\20x\Rectangle_1658_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3766-3863-4638-a534-316561363736/-/empty/doc13011020230906104.jpg
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tild3766-3863-4638-a534-316561363736\-\empty\doc13011020230906104.jpg
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3836-3465-4138-a333-346333636338/Group_2822.svg
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tild3836-3465-4138-a333-346333636338\Group_2822.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3861-3262-4963-a534-323638323163/-/resizeb/20x/Rectangle_1613_1.jpg
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tild3861-3262-4963-a534-323638323163\-\resizeb\20x\Rectangle_1613_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3861-3837-4932-a364-643066376637/-/resizeb/20x/Rectangle_1612_1.jpg
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tild3861-3837-4932-a364-643066376637\-\resizeb\20x\Rectangle_1612_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3862-3238-4164-b939-663764323861/photo.svg
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tild3862-3238-4164-b939-663764323861\photo.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3933-6466-4861-b438-616366663736/-/resizeb/20x/Rectangle_1615_1.jpg
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tild3933-6466-4861-b438-616366663736\-\resizeb\20x\Rectangle_1615_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6133-3561-4563-b363-373232323032/Group_2822.svg
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tild6133-3561-4563-b363-373232323032\Group_2822.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild6232-6165-4636-a564-343864346438/-/resizeb/20x/Rectangle_1616_1.jpg
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tild6232-6165-4636-a564-343864346438\-\resizeb\20x\Rectangle_1616_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6263-3365-4338-a665-653764653563/-/empty/_1.jpg
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tild6263-3365-4338-a665-653764653563\-\empty\_1.jpg
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6330-6465-4033-a263-383462363862/Group_2822.svg
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tild6330-6465-4033-a263-383462363862\Group_2822.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild6433-6162-4465-b966-316663616432/-/resize/20x/business-woman-in-ch.jpg
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tild6433-6162-4465-b966-316663616432\-\resize\20x\business-woman-in-ch.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6531-6335-4463-b034-313432303639/-/resizeb/20x/Rectangle_1614_1.jpg
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tild6531-6335-4463-b034-313432303639\-\resizeb\20x\Rectangle_1614_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6665-6538-4032-b732-643862313730/Frame_20.png
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tild6665-6538-4032-b732-643862313730\Frame_20.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6666-6165-4166-a439-663133363038/-/resize/20x/Rectangle_1661_1.jpg
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tild6666-6165-4166-a439-663133363038\-\resize\20x\Rectangle_1661_1.jpg
+Content Type: image/jpeg
+
+Uri: https://uk-nalog.ru/
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\index-1.htm
+Content Type: text/html
+
+Uri: https://uk-nalog.ru/?utm_source=yandex&utm_medium=cpc&utm_campaign=100238017&utm_content=15327739921&utm_term=---autotargeting&yclid=13746020026789396479
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\index.htm
+Content Type: text/html
+
+Uri: https://uk-nalog.ru/about
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\about.html
+Content Type: text/html
+
+Uri: https://uk-nalog.ru/bankrotstvo-fz
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\bankrotstvo-fz.html
+Content Type: text/html
+
+Uri: https://uk-nalog.ru/bankrotstvo-ur
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\bankrotstvo-ur.html
+Content Type: text/html
+
+Uri: https://uk-nalog.ru/blog
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\blog.html
+Content Type: text/html
+
+Uri: https://uk-nalog.ru/buxgalterskij-uchet
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\buxgalterskij-uchet.html
+Content Type: text/html
+
+Uri: https://uk-nalog.ru/contacty
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\contacty.html
+Content Type: text/html
+
+Uri: https://uk-nalog.ru/likvidatsia
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\likvidatsia.html
+Content Type: text/html
+
+Uri: https://uk-nalog.ru/nalog
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\nalog.html
+Content Type: text/html
+
+Uri: https://uk-nalog.ru/registratsiy
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\registratsiy.html
+Content Type: text/html
+
+Uri: https://uk-nalog.ru/tilda-blocks-page39917204.min.css?t=1700568316
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tilda-blocks-page39917204.min.css
+Content Type: text/css
+
+Uri: https://uk-nalog.ru/tilda-blocks-page39917204.min.js?t=1700568316
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tilda-blocks-page39917204.min.js
+Content Type: application/javascript
+
+Uri: https://uk-nalog.ru/tilda-blocks-page39925385.min.css?t=1700568316
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tilda-blocks-page39925385.min.css
+Content Type: text/css
+
+Uri: https://uk-nalog.ru/tilda-blocks-page39925385.min.js?t=1700568316
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tilda-blocks-page39925385.min.js
+Content Type: application/javascript
+
+Uri: https://uk-nalog.ru/tilda-blocks-page39925701.min.css?t=1700568316
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tilda-blocks-page39925701.min.css
+Content Type: text/css
+
+Uri: https://uk-nalog.ru/tilda-blocks-page39925701.min.js?t=1700568316
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tilda-blocks-page39925701.min.js
+Content Type: application/javascript
+
+Uri: https://uk-nalog.ru/tilda-blocks-page40086411.min.css?t=1701766734
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tilda-blocks-page40086411.min.css
+Content Type: text/css
+
+Uri: https://uk-nalog.ru/tilda-blocks-page40086411.min.js?t=1701766734
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tilda-blocks-page40086411.min.js
+Content Type: application/javascript
+
+Uri: https://uk-nalog.ru/tilda-blocks-page40089187.min.css?t=1700568316
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tilda-blocks-page40089187.min.css
+Content Type: text/css
+
+Uri: https://uk-nalog.ru/tilda-blocks-page40089187.min.js?t=1700568316
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tilda-blocks-page40089187.min.js
+Content Type: application/javascript
+
+Uri: https://uk-nalog.ru/tilda-blocks-page40089456.min.css?t=1700568316
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tilda-blocks-page40089456.min.css
+Content Type: text/css
+
+Uri: https://uk-nalog.ru/tilda-blocks-page40089456.min.js?t=1700568316
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tilda-blocks-page40089456.min.js
+Content Type: application/javascript
+
+Uri: https://uk-nalog.ru/tilda-blocks-page40158962.min.css?t=1700568316
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tilda-blocks-page40158962.min.css
+Content Type: text/css
+
+Uri: https://uk-nalog.ru/tilda-blocks-page40158962.min.js?t=1700568316
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tilda-blocks-page40158962.min.js
+Content Type: application/javascript
+
+Uri: https://uk-nalog.ru/tilda-blocks-page40162318.min.css?t=1700568316
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tilda-blocks-page40162318.min.css
+Content Type: text/css
+
+Uri: https://uk-nalog.ru/tilda-blocks-page40162318.min.js?t=1700568316
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tilda-blocks-page40162318.min.js
+Content Type: application/javascript
+
+Uri: https://uk-nalog.ru/tilda-blocks-page40165115.min.css?t=1700568316
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tilda-blocks-page40165115.min.css
+Content Type: text/css
+
+Uri: https://uk-nalog.ru/tilda-blocks-page40165115.min.js?t=1700568316
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tilda-blocks-page40165115.min.js
+Content Type: application/javascript
+
+Uri: https://uk-nalog.ru/tilda-blocks-page40291911.min.css?t=1700568316
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tilda-blocks-page40291911.min.css
+Content Type: text/css
+
+Uri: https://uk-nalog.ru/tilda-blocks-page40291911.min.js?t=1700568316
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\tilda-blocks-page40291911.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/scrollbooster@3.0.2/dist/scrollbooster.min.js
+File Name: C:\Users\пк\Desktop\Татьяна аудит\uk-nalog.ru\scrollbooster@3.0.2\dist\scrollbooster.min.js
+Content Type: application/javascript
+
